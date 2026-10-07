@@ -4,3 +4,4 @@ Claude için proje notları. Yeni oturumlarda (farklı bilgisayar / bulut) bu do
 
 ## Notlar
 - `notes/recordly.md` — Recordly (açık kaynak ekran kaydedici, whisper.cpp ile otomatik altyazı) incelemesi, lisans uyarısı (AGPL) ve GameFab için kullanım fikirleri.
+- `notes/freellmapi.md` — FreeLLMAPI (ücretsiz LLM sağlayıcılarını tek OpenAI uyumlu API'de toplayan router, MIT) incelemesi, Claude Code ile kullanımı ve GameFab için uygunluk notları.
